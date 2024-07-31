@@ -1,1 +1,1 @@
-# -translating-Indian-Names-to-Hindi
+# Translating-Indian-Names-to-Hindi
